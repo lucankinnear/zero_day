@@ -1,3 +1,3 @@
-#MY ZERO DAY PROJECT
+# MY ZERO DAY PROJECT
 
 Thank you for reading.
